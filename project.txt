@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Cristini James</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Bungee" rel="stylesheet">
+    <link href="css/project-style.css" rel="stylesheet">
+
+
+  </head>
+
+  <body>
+
+    <div class="container max-width">
+      <header>
+    <div class="row header_margin">
+
+      <div class="col-md-6">
+      <img src="images/udacityLogo.png" alt="udacity-logo" class="logo_size logo_title">
+      </div>
+
+      <div class="col-md-6 text-right text-uppercase">
+
+        <h1 class="tx_muted title-super">Cristini James</h1>
+        <h4>Digital Marketing Ninja</h4>
+        <!-- name and title -->
+
+      </div>
+
+    </div>
+  </header>
+    <nav>
+    <div class="row">
+      <div class="col-md-12">
+        <hr>
+      </div>
+    </div>
+  </nav>
+
+  <section>
+    <div class="row">
+      <div class="col-md-12">
+        <img src="images/pic1.jpg" alt="image1" class="img-responsive">
+      </div>
+    </div>
+</section>
+
+<section>
+    <div class="row">
+      <div class="col-md-12">
+        <h2 class="tx_color">Professional Services</h2>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-4 text-center">
+        <img src="images/pic2.jpg" alt="pic2" class="img-responsive">
+        <h2>SEO</h2>
+        <p>https://placeimg.com/</p>
+      </div>
+
+      <div class="col-md-4 text-center">
+        <img src="images/pic3.jpg" alt="pic3" class="img-responsive">
+        <h2>Digital Marketing</h2>
+        <p>https://placeimg.com/</p>
+      </div>
+
+      <div class="col-md-4 text-center">
+        <img src="images/pic4.jpg" alt="pic4" class="img-responsive">
+        <h3>Content Strategy</h3>
+        <p>https://placeimg.com/</p>
+      </div>
+
+    </div>
+  </section>
+    </div>
+    <footer> <img src="" ha> </footer>
+  </body>
+  </html>
